@@ -1,0 +1,192 @@
+{
+  "section1": {"files": [
+    {
+      "type": "multiatlas",
+      "key": "textures",
+      "url": "assets/atlas/textures.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "sceneFile",
+      "key": "first",
+      "url": "assets/scenes/first.js"
+    },
+    {
+      "type": "sceneFile",
+      "key": "finalgame",
+      "url": "assets/scenes/finalgame.js"
+    },
+    {
+      "type": "sceneFile",
+      "key": "lvl3",
+      "url": "assets/scenes/lvl3.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "Person",
+      "url": "assets/atlas/Person.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "multiatlas",
+      "key": "final-soc",
+      "url": "assets/atlas/final-soc.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "sceneFile",
+      "key": "persons",
+      "url": "assets/scenes/persons.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "allgame",
+      "url": "assets/atlas/allgame.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "multiatlas",
+      "key": "final",
+      "url": "assets/atlas/final.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "sceneFile",
+      "key": "lvl1",
+      "url": "assets/scenes/lvl1.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "antoganist",
+      "url": "assets/atlas/antoganist.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "image",
+      "key": "itogArrow",
+      "url": "assets/sprites/itogArrow.png",
+      "normalMap": ""
+    },
+    {
+      "type": "image",
+      "key": "background1",
+      "url": "assets/sprites/background1.jpg",
+      "normalMap": ""
+    },
+    {
+      "type": "image",
+      "key": "background2",
+      "url": "assets/sprites/background2.jpg",
+      "normalMap": ""
+    },
+    {
+      "type": "image",
+      "key": "background4",
+      "url": "assets/sprites/background4.jpg",
+      "normalMap": ""
+    },
+    {
+      "type": "image",
+      "key": "Background",
+      "url": "assets/sprites/Background.jpg",
+      "normalMap": ""
+    },
+    {
+      "type": "image",
+      "key": "background3",
+      "url": "assets/sprites/background3.jpg",
+      "normalMap": ""
+    },
+    {
+      "type": "sceneFile",
+      "key": "lvl1buf",
+      "url": "assets/scenes/lvl1buf.js"
+    },
+    {
+      "type": "sceneFile",
+      "key": "anotScen",
+      "url": "assets/scenes/anotScen.js"
+    },
+    {
+      "type": "sceneFile",
+      "key": "anotScen2",
+      "url": "assets/scenes/anotScen2.js"
+    },
+    {
+      "type": "sceneFile",
+      "key": "anotScen3",
+      "url": "assets/scenes/anotScen3.js"
+    },
+    {
+      "type": "sceneFile",
+      "key": "lvl2buf",
+      "url": "assets/scenes/lvl2buf.js"
+    },
+    {
+      "type": "sceneFile",
+      "key": "lvl2",
+      "url": "assets/scenes/lvl2.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "allgame2",
+      "url": "assets/atlas/allgame2.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "multiatlas",
+      "key": "updateItems",
+      "url": "assets/atlas/updateItems.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "multiatlas",
+      "key": "boys",
+      "url": "assets/atlas/boys.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "multiatlas",
+      "key": "girls",
+      "url": "assets/atlas/girls.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "multiatlas",
+      "key": "attackAction",
+      "url": "assets/atlas/attackAction.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "multiatlas",
+      "key": "rutinos",
+      "url": "assets/atlas/rutinos.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "multiatlas",
+      "key": "skuka",
+      "url": "assets/atlas/skuka.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "multiatlas",
+      "key": "vlastelin",
+      "url": "assets/atlas/vlastelin.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "multiatlas",
+      "key": "winandlos",
+      "url": "assets/atlas/winandlos.json",
+      "path": "assets/atlas"
+    }
+  ]},
+  "meta": {
+    "generated": "1570293000675",
+    "app": "Phaser Editor 2D - Asset Pack Editor - 2.1.3",
+    "contentType": "Phaser v3 Asset Pack",
+    "url": "https://phasereditor2d.com",
+    "version": "2"
+  }
+}

@@ -1,0 +1,607 @@
+{
+	"textures": [
+		{
+			"image": "vlastelin.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3531,
+				"h": 2231
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "vlastelin_attack_new05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 183,
+						"w": 547,
+						"h": 461
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 547,
+						"h": 461
+					}
+				},
+				{
+					"filename": "vlastelin_attack_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 150,
+						"y": 154,
+						"w": 536,
+						"h": 489
+					},
+					"frame": {
+						"x": 547,
+						"y": 0,
+						"w": 536,
+						"h": 489
+					}
+				},
+				{
+					"filename": "vlastelin_hit_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 149,
+						"w": 533,
+						"h": 494
+					},
+					"frame": {
+						"x": 0,
+						"y": 461,
+						"w": 533,
+						"h": 494
+					}
+				},
+				{
+					"filename": "vlastelin_k.o._new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 235,
+						"y": 228,
+						"w": 519,
+						"h": 425
+					},
+					"frame": {
+						"x": 1083,
+						"y": 0,
+						"w": 519,
+						"h": 425
+					}
+				},
+				{
+					"filename": "vlastelin_glory_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 138,
+						"y": 161,
+						"w": 507,
+						"h": 482
+					},
+					"frame": {
+						"x": 1602,
+						"y": 0,
+						"w": 507,
+						"h": 482
+					}
+				},
+				{
+					"filename": "vlastelin_k.o._new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 252,
+						"y": 321,
+						"w": 502,
+						"h": 339
+					},
+					"frame": {
+						"x": 1083,
+						"y": 425,
+						"w": 502,
+						"h": 339
+					}
+				},
+				{
+					"filename": "vlastelin_k.o._new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 253,
+						"y": 432,
+						"w": 502,
+						"h": 241
+					},
+					"frame": {
+						"x": 533,
+						"y": 489,
+						"w": 502,
+						"h": 241
+					}
+				},
+				{
+					"filename": "vlastelin_k.o._new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 189,
+						"y": 143,
+						"w": 499,
+						"h": 516
+					},
+					"frame": {
+						"x": 533,
+						"y": 730,
+						"w": 499,
+						"h": 516
+					}
+				},
+				{
+					"filename": "vlastelin_glory_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 154,
+						"y": 161,
+						"w": 493,
+						"h": 482
+					},
+					"frame": {
+						"x": 0,
+						"y": 955,
+						"w": 493,
+						"h": 482
+					}
+				},
+				{
+					"filename": "vlastelin_idle_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 146,
+						"w": 480,
+						"h": 497
+					},
+					"frame": {
+						"x": 2109,
+						"y": 0,
+						"w": 480,
+						"h": 497
+					}
+				},
+				{
+					"filename": "vlastelin_idle_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 148,
+						"y": 157,
+						"w": 478,
+						"h": 486
+					},
+					"frame": {
+						"x": 1585,
+						"y": 482,
+						"w": 478,
+						"h": 486
+					}
+				},
+				{
+					"filename": "vlastelin_attack_new06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 167,
+						"w": 478,
+						"h": 477
+					},
+					"frame": {
+						"x": 1585,
+						"y": 968,
+						"w": 478,
+						"h": 477
+					}
+				},
+				{
+					"filename": "vlastelin_hit_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 183,
+						"y": 154,
+						"w": 473,
+						"h": 489
+					},
+					"frame": {
+						"x": 1032,
+						"y": 764,
+						"w": 473,
+						"h": 489
+					}
+				},
+				{
+					"filename": "vlastelin_glory_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 191,
+						"y": 137,
+						"w": 472,
+						"h": 506
+					},
+					"frame": {
+						"x": 493,
+						"y": 1246,
+						"w": 472,
+						"h": 506
+					}
+				},
+				{
+					"filename": "vlastelin_attack_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 159,
+						"w": 471,
+						"h": 484
+					},
+					"frame": {
+						"x": 0,
+						"y": 1437,
+						"w": 471,
+						"h": 484
+					}
+				},
+				{
+					"filename": "vlastelin_glory_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 159,
+						"w": 471,
+						"h": 484
+					},
+					"frame": {
+						"x": 965,
+						"y": 1253,
+						"w": 471,
+						"h": 484
+					}
+				},
+				{
+					"filename": "vlastelin_hit_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 159,
+						"w": 471,
+						"h": 484
+					},
+					"frame": {
+						"x": 2589,
+						"y": 0,
+						"w": 471,
+						"h": 484
+					}
+				},
+				{
+					"filename": "vlastelin_idle_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 159,
+						"w": 471,
+						"h": 484
+					},
+					"frame": {
+						"x": 3060,
+						"y": 0,
+						"w": 471,
+						"h": 484
+					}
+				},
+				{
+					"filename": "vlastelin_k.o._new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 159,
+						"w": 471,
+						"h": 484
+					},
+					"frame": {
+						"x": 2589,
+						"y": 484,
+						"w": 471,
+						"h": 484
+					}
+				},
+				{
+					"filename": "vlastelin_idle_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 159,
+						"y": 155,
+						"w": 466,
+						"h": 488
+					},
+					"frame": {
+						"x": 2063,
+						"y": 497,
+						"w": 466,
+						"h": 488
+					}
+				},
+				{
+					"filename": "vlastelin_attack_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 226,
+						"y": 169,
+						"w": 466,
+						"h": 474
+					},
+					"frame": {
+						"x": 2063,
+						"y": 985,
+						"w": 466,
+						"h": 474
+					}
+				},
+				{
+					"filename": "vlastelin_attack_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 226,
+						"y": 169,
+						"w": 465,
+						"h": 474
+					},
+					"frame": {
+						"x": 2063,
+						"y": 1459,
+						"w": 465,
+						"h": 474
+					}
+				},
+				{
+					"filename": "vlastelin_attack_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 259,
+						"y": 165,
+						"w": 434,
+						"h": 480
+					},
+					"frame": {
+						"x": 1436,
+						"y": 1445,
+						"w": 434,
+						"h": 480
+					}
+				},
+				{
+					"filename": "vlastelin_glory_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 149,
+						"w": 409,
+						"h": 494
+					},
+					"frame": {
+						"x": 965,
+						"y": 1737,
+						"w": 409,
+						"h": 494
+					}
+				},
+				{
+					"filename": "vlastelin_attack_new07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 159,
+						"w": 471,
+						"h": 484
+					},
+					"frame": {
+						"x": 0,
+						"y": 1437,
+						"w": 471,
+						"h": 484
+					}
+				},
+				{
+					"filename": "vlastelin_glory_new05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 149,
+						"w": 409,
+						"h": 494
+					},
+					"frame": {
+						"x": 965,
+						"y": 1737,
+						"w": 409,
+						"h": 494
+					}
+				},
+				{
+					"filename": "vlastelin_glory_new06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 154,
+						"y": 161,
+						"w": 493,
+						"h": 482
+					},
+					"frame": {
+						"x": 0,
+						"y": 955,
+						"w": 493,
+						"h": 482
+					}
+				},
+				{
+					"filename": "vlastelin_hit_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 800,
+						"h": 800
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 159,
+						"w": 471,
+						"h": 484
+					},
+					"frame": {
+						"x": 2589,
+						"y": 0,
+						"w": 471,
+						"h": 484
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.0"
+	}
+}

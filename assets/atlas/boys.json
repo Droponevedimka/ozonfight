@@ -1,0 +1,796 @@
+{
+	"textures": [
+		{
+			"image": "boys.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1305,
+				"h": 3745
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "boy_idle_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 241,
+						"y": 137,
+						"w": 218,
+						"h": 426
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 218,
+						"h": 426
+					}
+				},
+				{
+					"filename": "boy_hit_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 144,
+						"w": 221,
+						"h": 419
+					},
+					"frame": {
+						"x": 4,
+						"y": 438,
+						"w": 221,
+						"h": 419
+					}
+				},
+				{
+					"filename": "boy_attack_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 147,
+						"w": 221,
+						"h": 417
+					},
+					"frame": {
+						"x": 230,
+						"y": 4,
+						"w": 221,
+						"h": 417
+					}
+				},
+				{
+					"filename": "boy_k.o._new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 147,
+						"w": 221,
+						"h": 417
+					},
+					"frame": {
+						"x": 4,
+						"y": 865,
+						"w": 221,
+						"h": 417
+					}
+				},
+				{
+					"filename": "boy_idle_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 241,
+						"y": 146,
+						"w": 217,
+						"h": 417
+					},
+					"frame": {
+						"x": 4,
+						"y": 1290,
+						"w": 217,
+						"h": 417
+					}
+				},
+				{
+					"filename": "boy_idle_new06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 238,
+						"y": 147,
+						"w": 223,
+						"h": 416
+					},
+					"frame": {
+						"x": 4,
+						"y": 1715,
+						"w": 223,
+						"h": 416
+					}
+				},
+				{
+					"filename": "boy_glory_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 147,
+						"w": 221,
+						"h": 416
+					},
+					"frame": {
+						"x": 229,
+						"y": 1290,
+						"w": 221,
+						"h": 416
+					}
+				},
+				{
+					"filename": "boy_hit_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 147,
+						"w": 221,
+						"h": 416
+					},
+					"frame": {
+						"x": 233,
+						"y": 429,
+						"w": 221,
+						"h": 416
+					}
+				},
+				{
+					"filename": "boy_idle_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 147,
+						"w": 221,
+						"h": 416
+					},
+					"frame": {
+						"x": 459,
+						"y": 4,
+						"w": 221,
+						"h": 416
+					}
+				},
+				{
+					"filename": "boy_idle_new05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 241,
+						"y": 148,
+						"w": 217,
+						"h": 415
+					},
+					"frame": {
+						"x": 233,
+						"y": 853,
+						"w": 217,
+						"h": 415
+					}
+				},
+				{
+					"filename": "boy_idle_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 238,
+						"y": 149,
+						"w": 222,
+						"h": 414
+					},
+					"frame": {
+						"x": 4,
+						"y": 2139,
+						"w": 222,
+						"h": 414
+					}
+				},
+				{
+					"filename": "boy_hit_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 150,
+						"w": 226,
+						"h": 413
+					},
+					"frame": {
+						"x": 4,
+						"y": 2561,
+						"w": 226,
+						"h": 413
+					}
+				},
+				{
+					"filename": "boy_idle_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 238,
+						"y": 150,
+						"w": 222,
+						"h": 413
+					},
+					"frame": {
+						"x": 234,
+						"y": 2139,
+						"w": 222,
+						"h": 413
+					}
+				},
+				{
+					"filename": "boy_hit_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 224,
+						"y": 154,
+						"w": 235,
+						"h": 410
+					},
+					"frame": {
+						"x": 235,
+						"y": 1714,
+						"w": 235,
+						"h": 410
+					}
+				},
+				{
+					"filename": "boy_attack_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 155,
+						"w": 235,
+						"h": 408
+					},
+					"frame": {
+						"x": 4,
+						"y": 2982,
+						"w": 235,
+						"h": 408
+					}
+				},
+				{
+					"filename": "boy_glory_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 172,
+						"w": 276,
+						"h": 400
+					},
+					"frame": {
+						"x": 238,
+						"y": 2560,
+						"w": 276,
+						"h": 400
+					}
+				},
+				{
+					"filename": "boy_glory_new05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 172,
+						"w": 256,
+						"h": 400
+					},
+					"frame": {
+						"x": 464,
+						"y": 2132,
+						"w": 256,
+						"h": 400
+					}
+				},
+				{
+					"filename": "boy_k.o._new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 103,
+						"y": 240,
+						"w": 340,
+						"h": 320
+					},
+					"frame": {
+						"x": 4,
+						"y": 3398,
+						"w": 340,
+						"h": 320
+					}
+				},
+				{
+					"filename": "boy_glory_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 174,
+						"w": 260,
+						"h": 399
+					},
+					"frame": {
+						"x": 247,
+						"y": 2968,
+						"w": 260,
+						"h": 399
+					}
+				},
+				{
+					"filename": "boy_attack_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 198,
+						"w": 288,
+						"h": 366
+					},
+					"frame": {
+						"x": 352,
+						"y": 3375,
+						"w": 288,
+						"h": 366
+					}
+				},
+				{
+					"filename": "boy_glory_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 174,
+						"w": 256,
+						"h": 398
+					},
+					"frame": {
+						"x": 515,
+						"y": 2968,
+						"w": 256,
+						"h": 398
+					}
+				},
+				{
+					"filename": "boy_k.o._new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 181,
+						"y": 183,
+						"w": 275,
+						"h": 353
+					},
+					"frame": {
+						"x": 648,
+						"y": 3374,
+						"w": 275,
+						"h": 353
+					}
+				},
+				{
+					"filename": "boy_attack_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 234,
+						"y": 172,
+						"w": 264,
+						"h": 393
+					},
+					"frame": {
+						"x": 522,
+						"y": 2540,
+						"w": 264,
+						"h": 393
+					}
+				},
+				{
+					"filename": "boy_glory_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 184,
+						"w": 263,
+						"h": 379
+					},
+					"frame": {
+						"x": 779,
+						"y": 2941,
+						"w": 263,
+						"h": 379
+					}
+				},
+				{
+					"filename": "boy_attack_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 275,
+						"y": 194,
+						"w": 370,
+						"h": 374
+					},
+					"frame": {
+						"x": 931,
+						"y": 3328,
+						"w": 370,
+						"h": 374
+					}
+				},
+				{
+					"filename": "boy_attack_new05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 275,
+						"y": 194,
+						"w": 370,
+						"h": 374
+					},
+					"frame": {
+						"x": 458,
+						"y": 853,
+						"w": 370,
+						"h": 374
+					}
+				},
+				{
+					"filename": "boy_k.o._new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 403,
+						"w": 424,
+						"h": 211
+					},
+					"frame": {
+						"x": 478,
+						"y": 428,
+						"w": 424,
+						"h": 211
+					}
+				},
+				{
+					"filename": "boy_k.o._new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 403,
+						"w": 423,
+						"h": 196
+					},
+					"frame": {
+						"x": 728,
+						"y": 647,
+						"w": 423,
+						"h": 196
+					}
+				},
+				{
+					"filename": "boy_attack_new10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 147,
+						"w": 221,
+						"h": 417
+					},
+					"frame": {
+						"x": 230,
+						"y": 4,
+						"w": 221,
+						"h": 417
+					}
+				},
+				{
+					"filename": "boy_attack_new09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 155,
+						"w": 235,
+						"h": 408
+					},
+					"frame": {
+						"x": 4,
+						"y": 2982,
+						"w": 235,
+						"h": 408
+					}
+				},
+				{
+					"filename": "boy_attack_new06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 275,
+						"y": 194,
+						"w": 370,
+						"h": 374
+					},
+					"frame": {
+						"x": 931,
+						"y": 3328,
+						"w": 370,
+						"h": 374
+					}
+				},
+				{
+					"filename": "boy_attack_new08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 275,
+						"y": 194,
+						"w": 370,
+						"h": 374
+					},
+					"frame": {
+						"x": 931,
+						"y": 3328,
+						"w": 370,
+						"h": 374
+					}
+				},
+				{
+					"filename": "boy_attack_new07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 275,
+						"y": 194,
+						"w": 370,
+						"h": 374
+					},
+					"frame": {
+						"x": 458,
+						"y": 853,
+						"w": 370,
+						"h": 374
+					}
+				},
+				{
+					"filename": "boy_glory_new08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 147,
+						"w": 221,
+						"h": 416
+					},
+					"frame": {
+						"x": 229,
+						"y": 1290,
+						"w": 221,
+						"h": 416
+					}
+				},
+				{
+					"filename": "boy_glory_new06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 174,
+						"w": 256,
+						"h": 398
+					},
+					"frame": {
+						"x": 515,
+						"y": 2968,
+						"w": 256,
+						"h": 398
+					}
+				},
+				{
+					"filename": "boy_glory_new07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 261,
+						"y": 172,
+						"w": 256,
+						"h": 400
+					},
+					"frame": {
+						"x": 464,
+						"y": 2132,
+						"w": 256,
+						"h": 400
+					}
+				},
+				{
+					"filename": "boy_hit_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 147,
+						"w": 221,
+						"h": 416
+					},
+					"frame": {
+						"x": 233,
+						"y": 429,
+						"w": 221,
+						"h": 416
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.0"
+	}
+}

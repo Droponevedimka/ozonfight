@@ -1,0 +1,144 @@
+{
+	"textures": [
+		{
+			"image": "final.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3280,
+				"h": 2031
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "girl_dragon-min.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1154,
+						"h": 1080
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 0,
+						"w": 1096,
+						"h": 1050
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1096,
+						"h": 1050
+					}
+				},
+				{
+					"filename": "boy_dragon-min.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1150,
+						"h": 1043
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 0,
+						"w": 1092,
+						"h": 1042
+					},
+					"frame": {
+						"x": 1096,
+						"y": 0,
+						"w": 1092,
+						"h": 1042
+					}
+				},
+				{
+					"filename": "girl_tiger-min.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1150,
+						"h": 981
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 0,
+						"w": 1092,
+						"h": 981
+					},
+					"frame": {
+						"x": 2188,
+						"y": 0,
+						"w": 1092,
+						"h": 981
+					}
+				},
+				{
+					"filename": "boy_tiger-min.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1102,
+						"h": 981
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 0,
+						"w": 1044,
+						"h": 981
+					},
+					"frame": {
+						"x": 2188,
+						"y": 981,
+						"w": 1044,
+						"h": 981
+					}
+				},
+				{
+					"filename": "boy_monkey-min.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1055,
+						"h": 1008
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 27,
+						"w": 1000,
+						"h": 981
+					},
+					"frame": {
+						"x": 1096,
+						"y": 1042,
+						"w": 1000,
+						"h": 981
+					}
+				},
+				{
+					"filename": "girl_monkey-min.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1055,
+						"h": 1008
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 27,
+						"w": 1000,
+						"h": 981
+					},
+					"frame": {
+						"x": 0,
+						"y": 1050,
+						"w": 1000,
+						"h": 981
+					}
+				}
+			]
+		}
+	],
+	"meta": {		
+		"version": "0.6.0"
+	}
+}

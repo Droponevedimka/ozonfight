@@ -1,0 +1,2203 @@
+{
+	"textures": [
+		{
+			"image": "attackAction.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3748,
+				"h": 3018
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pustota",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 3000,
+						"h": 3000
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 706,
+						"h": 329
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 706,
+						"h": 329
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl107.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 165,
+						"y": 73,
+						"w": 706,
+						"h": 329
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 706,
+						"h": 329
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl107.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 169,
+						"y": 75,
+						"w": 700,
+						"h": 327
+					},
+					"frame": {
+						"x": 706,
+						"y": 0,
+						"w": 700,
+						"h": 327
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl106.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 68,
+						"w": 584,
+						"h": 358
+					},
+					"frame": {
+						"x": 1406,
+						"y": 0,
+						"w": 584,
+						"h": 358
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl106.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 235,
+						"y": 68,
+						"w": 583,
+						"h": 359
+					},
+					"frame": {
+						"x": 706,
+						"y": 327,
+						"w": 583,
+						"h": 359
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_b00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 180,
+						"w": 101,
+						"h": 140
+					},
+					"frame": {
+						"x": 1289,
+						"y": 327,
+						"w": 101,
+						"h": 140
+					}
+				},
+				{
+					"filename": "rutinos_lightning_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 290,
+						"y": 158,
+						"w": 547,
+						"h": 179
+					},
+					"frame": {
+						"x": 0,
+						"y": 329,
+						"w": 547,
+						"h": 179
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_a01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 192,
+						"y": 203,
+						"w": 153,
+						"h": 93
+					},
+					"frame": {
+						"x": 547,
+						"y": 329,
+						"w": 153,
+						"h": 93
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_a01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 191,
+						"y": 204,
+						"w": 153,
+						"h": 92
+					},
+					"frame": {
+						"x": 547,
+						"y": 422,
+						"w": 153,
+						"h": 92
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl105.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 218,
+						"y": 71,
+						"w": 538,
+						"h": 353
+					},
+					"frame": {
+						"x": 0,
+						"y": 508,
+						"w": 538,
+						"h": 353
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_b01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 169,
+						"y": 165,
+						"w": 150,
+						"h": 147
+					},
+					"frame": {
+						"x": 538,
+						"y": 514,
+						"w": 150,
+						"h": 147
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl102.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 207,
+						"y": 152,
+						"w": 147,
+						"h": 212
+					},
+					"frame": {
+						"x": 538,
+						"y": 661,
+						"w": 147,
+						"h": 212
+					}
+				},
+				{
+					"filename": "rutinos_lightning_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 121,
+						"w": 536,
+						"h": 212
+					},
+					"frame": {
+						"x": 0,
+						"y": 861,
+						"w": 536,
+						"h": 212
+					}
+				},
+				{
+					"filename": "rutinos_lightning_new05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 119,
+						"w": 534,
+						"h": 217
+					},
+					"frame": {
+						"x": 1990,
+						"y": 0,
+						"w": 534,
+						"h": 217
+					}
+				},
+				{
+					"filename": "rutinos_lightning_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 120,
+						"w": 533,
+						"h": 217
+					},
+					"frame": {
+						"x": 2524,
+						"y": 0,
+						"w": 533,
+						"h": 217
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl105.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 222,
+						"y": 71,
+						"w": 525,
+						"h": 352
+					},
+					"frame": {
+						"x": 3057,
+						"y": 0,
+						"w": 525,
+						"h": 352
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl102.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 210,
+						"y": 152,
+						"w": 147,
+						"h": 210
+					},
+					"frame": {
+						"x": 3582,
+						"y": 0,
+						"w": 147,
+						"h": 210
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_a01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 187,
+						"y": 158,
+						"w": 145,
+						"h": 161
+					},
+					"frame": {
+						"x": 3582,
+						"y": 210,
+						"w": 145,
+						"h": 161
+					}
+				},
+				{
+					"filename": "rutinos_lightning_new06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 194,
+						"w": 516,
+						"h": 100
+					},
+					"frame": {
+						"x": 1990,
+						"y": 217,
+						"w": 516,
+						"h": 100
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_a04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 307,
+						"y": 114,
+						"w": 462,
+						"h": 271
+					},
+					"frame": {
+						"x": 2506,
+						"y": 217,
+						"w": 462,
+						"h": 271
+					}
+				},
+				{
+					"filename": "skuka_poison_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 817,
+						"y": 209,
+						"w": 86,
+						"h": 82
+					},
+					"frame": {
+						"x": 2968,
+						"y": 217,
+						"w": 86,
+						"h": 82
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl101.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 182,
+						"w": 83,
+						"h": 149
+					},
+					"frame": {
+						"x": 2968,
+						"y": 299,
+						"w": 83,
+						"h": 149
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_a04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 314,
+						"y": 115,
+						"w": 462,
+						"h": 270
+					},
+					"frame": {
+						"x": 1990,
+						"y": 317,
+						"w": 462,
+						"h": 270
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_b00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 218,
+						"w": 49,
+						"h": 40
+					},
+					"frame": {
+						"x": 2452,
+						"y": 317,
+						"w": 49,
+						"h": 40
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_b00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 217,
+						"w": 47,
+						"h": 36
+					},
+					"frame": {
+						"x": 2452,
+						"y": 357,
+						"w": 47,
+						"h": 36
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl100.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 218,
+						"w": 32,
+						"h": 79
+					},
+					"frame": {
+						"x": 2452,
+						"y": 393,
+						"w": 32,
+						"h": 79
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl100.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 219,
+						"w": 31,
+						"h": 78
+					},
+					"frame": {
+						"x": 2452,
+						"y": 472,
+						"w": 31,
+						"h": 78
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl104.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 75,
+						"w": 422,
+						"h": 344
+					},
+					"frame": {
+						"x": 3051,
+						"y": 352,
+						"w": 422,
+						"h": 344
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl101.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 144,
+						"y": 182,
+						"w": 82,
+						"h": 150
+					},
+					"frame": {
+						"x": 2968,
+						"y": 448,
+						"w": 82,
+						"h": 150
+					}
+				},
+				{
+					"filename": "skuka_poison_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 217,
+						"y": 134,
+						"w": 272,
+						"h": 231
+					},
+					"frame": {
+						"x": 3473,
+						"y": 371,
+						"w": 272,
+						"h": 231
+					}
+				},
+				{
+					"filename": "rutinos_lightning_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 658,
+						"y": 170,
+						"w": 260,
+						"h": 155
+					},
+					"frame": {
+						"x": 3473,
+						"y": 602,
+						"w": 260,
+						"h": 155
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl104.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 75,
+						"w": 421,
+						"h": 345
+					},
+					"frame": {
+						"x": 2483,
+						"y": 488,
+						"w": 421,
+						"h": 345
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_a00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 222,
+						"w": 64,
+						"h": 51
+					},
+					"frame": {
+						"x": 2904,
+						"y": 488,
+						"w": 64,
+						"h": 51
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_a00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 224,
+						"w": 64,
+						"h": 51
+					},
+					"frame": {
+						"x": 2904,
+						"y": 539,
+						"w": 64,
+						"h": 51
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_a01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 162,
+						"w": 142,
+						"h": 158
+					},
+					"frame": {
+						"x": 2904,
+						"y": 598,
+						"w": 142,
+						"h": 158
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_a05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 412,
+						"y": 138,
+						"w": 417,
+						"h": 237
+					},
+					"frame": {
+						"x": 3046,
+						"y": 696,
+						"w": 417,
+						"h": 237
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_b01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 163,
+						"w": 141,
+						"h": 143
+					},
+					"frame": {
+						"x": 2904,
+						"y": 757,
+						"w": 141,
+						"h": 143
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_a04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 478,
+						"y": 91,
+						"w": 277,
+						"h": 304
+					},
+					"frame": {
+						"x": 3463,
+						"y": 757,
+						"w": 277,
+						"h": 304
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_a05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 425,
+						"y": 138,
+						"w": 415,
+						"h": 238
+					},
+					"frame": {
+						"x": 1390,
+						"y": 358,
+						"w": 415,
+						"h": 238
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_b00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 156,
+						"w": 101,
+						"h": 140
+					},
+					"frame": {
+						"x": 1289,
+						"y": 467,
+						"w": 101,
+						"h": 140
+					}
+				},
+				{
+					"filename": "skuka_poison_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 648,
+						"y": 140,
+						"w": 179,
+						"h": 219
+					},
+					"frame": {
+						"x": 1805,
+						"y": 358,
+						"w": 179,
+						"h": 219
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_a07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 593,
+						"y": 134,
+						"w": 140,
+						"h": 232
+					},
+					"frame": {
+						"x": 1805,
+						"y": 577,
+						"w": 140,
+						"h": 232
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_b06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 507,
+						"y": 62,
+						"w": 380,
+						"h": 375
+					},
+					"frame": {
+						"x": 1390,
+						"y": 596,
+						"w": 380,
+						"h": 375
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl108.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 849,
+						"y": 234,
+						"w": 73,
+						"h": 46
+					},
+					"frame": {
+						"x": 1289,
+						"y": 607,
+						"w": 73,
+						"h": 46
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl108.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 846,
+						"y": 237,
+						"w": 71,
+						"h": 43
+					},
+					"frame": {
+						"x": 1289,
+						"y": 653,
+						"w": 71,
+						"h": 43
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_b06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 490,
+						"y": 48,
+						"w": 380,
+						"h": 375
+					},
+					"frame": {
+						"x": 1945,
+						"y": 587,
+						"w": 380,
+						"h": 375
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_a07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 644,
+						"y": 134,
+						"w": 140,
+						"h": 232
+					},
+					"frame": {
+						"x": 2325,
+						"y": 587,
+						"w": 140,
+						"h": 232
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_b07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 779,
+						"y": 164,
+						"w": 140,
+						"h": 148
+					},
+					"frame": {
+						"x": 2325,
+						"y": 819,
+						"w": 140,
+						"h": 148
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_b07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 767,
+						"y": 165,
+						"w": 139,
+						"h": 147
+					},
+					"frame": {
+						"x": 1770,
+						"y": 809,
+						"w": 139,
+						"h": 147
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_a00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 233,
+						"w": 139,
+						"h": 30
+					},
+					"frame": {
+						"x": 1770,
+						"y": 956,
+						"w": 139,
+						"h": 30
+					}
+				},
+				{
+					"filename": "rutinos_lightning_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 143,
+						"w": 380,
+						"h": 210
+					},
+					"frame": {
+						"x": 1909,
+						"y": 962,
+						"w": 380,
+						"h": 210
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_a05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 477,
+						"y": 67,
+						"w": 379,
+						"h": 350
+					},
+					"frame": {
+						"x": 2465,
+						"y": 833,
+						"w": 379,
+						"h": 350
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_a00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 230,
+						"w": 139,
+						"h": 30
+					},
+					"frame": {
+						"x": 2289,
+						"y": 1061,
+						"w": 139,
+						"h": 30
+					}
+				},
+				{
+					"filename": "vlastelin_pin_new05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 211,
+						"w": 138,
+						"h": 60
+					},
+					"frame": {
+						"x": 2289,
+						"y": 967,
+						"w": 138,
+						"h": 60
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_a05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 486,
+						"y": 74,
+						"w": 374,
+						"h": 346
+					},
+					"frame": {
+						"x": 685,
+						"y": 686,
+						"w": 374,
+						"h": 346
+					}
+				},
+				{
+					"filename": "vlastelin_pin_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 560,
+						"y": 182,
+						"w": 225,
+						"h": 124
+					},
+					"frame": {
+						"x": 1059,
+						"y": 686,
+						"w": 225,
+						"h": 124
+					}
+				},
+				{
+					"filename": "skuka_poison_new05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 111,
+						"w": 315,
+						"h": 278
+					},
+					"frame": {
+						"x": 1059,
+						"y": 810,
+						"w": 315,
+						"h": 278
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_a06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 519,
+						"y": 88,
+						"w": 369,
+						"h": 324
+					},
+					"frame": {
+						"x": 1374,
+						"y": 971,
+						"w": 369,
+						"h": 324
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_a06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 529,
+						"y": 91,
+						"w": 369,
+						"h": 323
+					},
+					"frame": {
+						"x": 536,
+						"y": 1032,
+						"w": 369,
+						"h": 323
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_b03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 377,
+						"y": 19,
+						"w": 364,
+						"h": 397
+					},
+					"frame": {
+						"x": 905,
+						"y": 1088,
+						"w": 364,
+						"h": 397
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_b03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 330,
+						"y": 0,
+						"w": 364,
+						"h": 397
+					},
+					"frame": {
+						"x": 0,
+						"y": 1073,
+						"w": 364,
+						"h": 397
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_b07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 556,
+						"y": 72,
+						"w": 364,
+						"h": 355
+					},
+					"frame": {
+						"x": 364,
+						"y": 1355,
+						"w": 364,
+						"h": 355
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_b07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 555,
+						"y": 72,
+						"w": 364,
+						"h": 355
+					},
+					"frame": {
+						"x": 0,
+						"y": 1470,
+						"w": 364,
+						"h": 355
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_a07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 550,
+						"y": 88,
+						"w": 364,
+						"h": 323
+					},
+					"frame": {
+						"x": 2844,
+						"y": 933,
+						"w": 364,
+						"h": 323
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_b06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 612,
+						"y": 117,
+						"w": 254,
+						"h": 256
+					},
+					"frame": {
+						"x": 3208,
+						"y": 933,
+						"w": 254,
+						"h": 256
+					}
+				},
+				{
+					"filename": "skuka_poison_new07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 128,
+						"w": 258,
+						"h": 243
+					},
+					"frame": {
+						"x": 3462,
+						"y": 1183,
+						"w": 258,
+						"h": 243
+					}
+				},
+				{
+					"filename": "vlastelin_pin_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 174,
+						"w": 253,
+						"h": 139
+					},
+					"frame": {
+						"x": 3208,
+						"y": 1189,
+						"w": 253,
+						"h": 139
+					}
+				},
+				{
+					"filename": "vlastelin_pin_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 677,
+						"y": 191,
+						"w": 242,
+						"h": 109
+					},
+					"frame": {
+						"x": 3462,
+						"y": 1061,
+						"w": 242,
+						"h": 109
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_a07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 557,
+						"y": 88,
+						"w": 364,
+						"h": 323
+					},
+					"frame": {
+						"x": 1743,
+						"y": 1172,
+						"w": 364,
+						"h": 323
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_b04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 465,
+						"y": 79,
+						"w": 352,
+						"h": 342
+					},
+					"frame": {
+						"x": 2107,
+						"y": 1172,
+						"w": 352,
+						"h": 342
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_a03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 304,
+						"y": 138,
+						"w": 349,
+						"h": 223
+					},
+					"frame": {
+						"x": 2459,
+						"y": 1183,
+						"w": 349,
+						"h": 223
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_a03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 347,
+						"y": 139,
+						"w": 349,
+						"h": 222
+					},
+					"frame": {
+						"x": 2459,
+						"y": 1406,
+						"w": 349,
+						"h": 222
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_a06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 547,
+						"y": 132,
+						"w": 348,
+						"h": 224
+					},
+					"frame": {
+						"x": 2459,
+						"y": 1628,
+						"w": 348,
+						"h": 224
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_a06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 541,
+						"y": 138,
+						"w": 348,
+						"h": 224
+					},
+					"frame": {
+						"x": 2808,
+						"y": 1256,
+						"w": 348,
+						"h": 224
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_b03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 432,
+						"y": 97,
+						"w": 301,
+						"h": 283
+					},
+					"frame": {
+						"x": 3156,
+						"y": 1328,
+						"w": 301,
+						"h": 283
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_b04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 438,
+						"y": 82,
+						"w": 346,
+						"h": 336
+					},
+					"frame": {
+						"x": 2808,
+						"y": 1480,
+						"w": 346,
+						"h": 336
+					}
+				},
+				{
+					"filename": "skuka_poison_new06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 122,
+						"w": 308,
+						"h": 256
+					},
+					"frame": {
+						"x": 3154,
+						"y": 1611,
+						"w": 308,
+						"h": 256
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_a02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 266,
+						"y": 160,
+						"w": 251,
+						"h": 181
+					},
+					"frame": {
+						"x": 3457,
+						"y": 1426,
+						"w": 251,
+						"h": 181
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_b05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 482,
+						"y": 30,
+						"w": 333,
+						"h": 388
+					},
+					"frame": {
+						"x": 2807,
+						"y": 1816,
+						"w": 333,
+						"h": 388
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_b06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 641,
+						"y": 121,
+						"w": 257,
+						"h": 259
+					},
+					"frame": {
+						"x": 3462,
+						"y": 1607,
+						"w": 257,
+						"h": 259
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_a02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 275,
+						"y": 160,
+						"w": 249,
+						"h": 180
+					},
+					"frame": {
+						"x": 3462,
+						"y": 1866,
+						"w": 249,
+						"h": 180
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_b01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 95,
+						"w": 311,
+						"h": 309
+					},
+					"frame": {
+						"x": 3140,
+						"y": 1867,
+						"w": 311,
+						"h": 309
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_a04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 440,
+						"y": 82,
+						"w": 297,
+						"h": 327
+					},
+					"frame": {
+						"x": 3451,
+						"y": 2046,
+						"w": 297,
+						"h": 327
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl103.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 259,
+						"y": 97,
+						"w": 297,
+						"h": 323
+					},
+					"frame": {
+						"x": 3451,
+						"y": 2373,
+						"w": 297,
+						"h": 323
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl103.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 97,
+						"w": 297,
+						"h": 322
+					},
+					"frame": {
+						"x": 3451,
+						"y": 2696,
+						"w": 297,
+						"h": 322
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_b01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 137,
+						"y": 71,
+						"w": 311,
+						"h": 309
+					},
+					"frame": {
+						"x": 3140,
+						"y": 2176,
+						"w": 311,
+						"h": 309
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_b05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 465,
+						"y": 9,
+						"w": 333,
+						"h": 388
+					},
+					"frame": {
+						"x": 1269,
+						"y": 1295,
+						"w": 333,
+						"h": 388
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_b02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 298,
+						"y": 87,
+						"w": 333,
+						"h": 325
+					},
+					"frame": {
+						"x": 1269,
+						"y": 1683,
+						"w": 333,
+						"h": 325
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_b02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 298,
+						"y": 63,
+						"w": 333,
+						"h": 325
+					},
+					"frame": {
+						"x": 1269,
+						"y": 2008,
+						"w": 333,
+						"h": 325
+					}
+				},
+				{
+					"filename": "skuka_poison_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 119,
+						"w": 307,
+						"h": 261
+					},
+					"frame": {
+						"x": 1269,
+						"y": 2333,
+						"w": 307,
+						"h": 261
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_b04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 452,
+						"y": 4,
+						"w": 298,
+						"h": 412
+					},
+					"frame": {
+						"x": 1602,
+						"y": 1495,
+						"w": 298,
+						"h": 412
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_b04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 429,
+						"y": 0,
+						"w": 298,
+						"h": 397
+					},
+					"frame": {
+						"x": 1602,
+						"y": 1907,
+						"w": 298,
+						"h": 397
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_a03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 399,
+						"y": 116,
+						"w": 296,
+						"h": 280
+					},
+					"frame": {
+						"x": 728,
+						"y": 1485,
+						"w": 296,
+						"h": 280
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl3_a02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 349,
+						"y": 133,
+						"w": 236,
+						"h": 211
+					},
+					"frame": {
+						"x": 1024,
+						"y": 1485,
+						"w": 236,
+						"h": 211
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_a02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 347,
+						"y": 132,
+						"w": 235,
+						"h": 209
+					},
+					"frame": {
+						"x": 1024,
+						"y": 1696,
+						"w": 235,
+						"h": 209
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl3_a03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 420,
+						"y": 112,
+						"w": 294,
+						"h": 280
+					},
+					"frame": {
+						"x": 364,
+						"y": 1710,
+						"w": 294,
+						"h": 280
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_b05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 561,
+						"y": 93,
+						"w": 293,
+						"h": 290
+					},
+					"frame": {
+						"x": 0,
+						"y": 1825,
+						"w": 293,
+						"h": 290
+					}
+				},
+				{
+					"filename": "vlastelin_pin_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 186,
+						"w": 293,
+						"h": 92
+					},
+					"frame": {
+						"x": 658,
+						"y": 1765,
+						"w": 293,
+						"h": 92
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_b03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 389,
+						"y": 100,
+						"w": 292,
+						"h": 277
+					},
+					"frame": {
+						"x": 658,
+						"y": 1857,
+						"w": 292,
+						"h": 277
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_b05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 543,
+						"y": 100,
+						"w": 288,
+						"h": 285
+					},
+					"frame": {
+						"x": 950,
+						"y": 1990,
+						"w": 288,
+						"h": 285
+					}
+				},
+				{
+					"filename": "skuka_poison_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 348,
+						"y": 134,
+						"w": 234,
+						"h": 231
+					},
+					"frame": {
+						"x": 293,
+						"y": 1990,
+						"w": 234,
+						"h": 231
+					}
+				},
+				{
+					"filename": "boy_fireball_lvl2_b02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 353,
+						"y": 126,
+						"w": 223,
+						"h": 225
+					},
+					"frame": {
+						"x": 0,
+						"y": 2115,
+						"w": 223,
+						"h": 225
+					}
+				},
+				{
+					"filename": "vlastelin_pin_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 419,
+						"y": 176,
+						"w": 221,
+						"h": 141
+					},
+					"frame": {
+						"x": 527,
+						"y": 2134,
+						"w": 221,
+						"h": 141
+					}
+				},
+				{
+					"filename": "girl_fireball_lvl2_b02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 930,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 357,
+						"y": 126,
+						"w": 216,
+						"h": 218
+					},
+					"frame": {
+						"x": 223,
+						"y": 2221,
+						"w": 216,
+						"h": 218
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.0"
+	}
+}

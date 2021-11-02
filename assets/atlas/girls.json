@@ -1,0 +1,754 @@
+{
+	"textures": [
+		{
+			"image": "girls.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1254,
+				"h": 3652
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "girl_glory_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 263,
+						"y": 61,
+						"w": 214,
+						"h": 407
+					},
+					"frame": {
+						"x": 4,
+						"y": 4,
+						"w": 214,
+						"h": 407
+					}
+				},
+				{
+					"filename": "girl_glory_new05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 263,
+						"y": 74,
+						"w": 214,
+						"h": 407
+					},
+					"frame": {
+						"x": 4,
+						"y": 419,
+						"w": 214,
+						"h": 407
+					}
+				},
+				{
+					"filename": "girl_glory_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 61,
+						"w": 206,
+						"h": 407
+					},
+					"frame": {
+						"x": 4,
+						"y": 834,
+						"w": 206,
+						"h": 407
+					}
+				},
+				{
+					"filename": "girl_glory_new06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 271,
+						"y": 92,
+						"w": 206,
+						"h": 407
+					},
+					"frame": {
+						"x": 4,
+						"y": 1249,
+						"w": 206,
+						"h": 407
+					}
+				},
+				{
+					"filename": "girl_idle_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 142,
+						"w": 198,
+						"h": 402
+					},
+					"frame": {
+						"x": 4,
+						"y": 1664,
+						"w": 198,
+						"h": 402
+					}
+				},
+				{
+					"filename": "girl_idle_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 251,
+						"y": 145,
+						"w": 198,
+						"h": 399
+					},
+					"frame": {
+						"x": 4,
+						"y": 2074,
+						"w": 198,
+						"h": 399
+					}
+				},
+				{
+					"filename": "girl_k.o._new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 150,
+						"w": 304,
+						"h": 394
+					},
+					"frame": {
+						"x": 4,
+						"y": 2481,
+						"w": 304,
+						"h": 394
+					}
+				},
+				{
+					"filename": "girl_hit_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 239,
+						"y": 152,
+						"w": 210,
+						"h": 393
+					},
+					"frame": {
+						"x": 210,
+						"y": 1664,
+						"w": 210,
+						"h": 393
+					}
+				},
+				{
+					"filename": "girl_idle_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 151,
+						"w": 203,
+						"h": 393
+					},
+					"frame": {
+						"x": 210,
+						"y": 2065,
+						"w": 203,
+						"h": 393
+					}
+				},
+				{
+					"filename": "girl_idle_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 151,
+						"w": 199,
+						"h": 393
+					},
+					"frame": {
+						"x": 218,
+						"y": 834,
+						"w": 199,
+						"h": 393
+					}
+				},
+				{
+					"filename": "girl_hit_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 238,
+						"y": 154,
+						"w": 211,
+						"h": 391
+					},
+					"frame": {
+						"x": 218,
+						"y": 1235,
+						"w": 211,
+						"h": 391
+					}
+				},
+				{
+					"filename": "girl_attack_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 155,
+						"w": 199,
+						"h": 389
+					},
+					"frame": {
+						"x": 226,
+						"y": 4,
+						"w": 199,
+						"h": 389
+					}
+				},
+				{
+					"filename": "girl_glory_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 155,
+						"w": 199,
+						"h": 389
+					},
+					"frame": {
+						"x": 226,
+						"y": 401,
+						"w": 199,
+						"h": 389
+					}
+				},
+				{
+					"filename": "girl_hit_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 155,
+						"w": 199,
+						"h": 389
+					},
+					"frame": {
+						"x": 425,
+						"y": 798,
+						"w": 199,
+						"h": 389
+					}
+				},
+				{
+					"filename": "girl_idle_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 155,
+						"w": 199,
+						"h": 389
+					},
+					"frame": {
+						"x": 433,
+						"y": 4,
+						"w": 199,
+						"h": 389
+					}
+				},
+				{
+					"filename": "girl_k.o._new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 155,
+						"w": 199,
+						"h": 389
+					},
+					"frame": {
+						"x": 433,
+						"y": 401,
+						"w": 199,
+						"h": 389
+					}
+				},
+				{
+					"filename": "girl_idle_new05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 156,
+						"w": 199,
+						"h": 388
+					},
+					"frame": {
+						"x": 640,
+						"y": 401,
+						"w": 199,
+						"h": 388
+					}
+				},
+				{
+					"filename": "girl_attack_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 157,
+						"w": 198,
+						"h": 387
+					},
+					"frame": {
+						"x": 640,
+						"y": 4,
+						"w": 198,
+						"h": 387
+					}
+				},
+				{
+					"filename": "girl_hit_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 221,
+						"y": 160,
+						"w": 228,
+						"h": 384
+					},
+					"frame": {
+						"x": 846,
+						"y": 4,
+						"w": 228,
+						"h": 384
+					}
+				},
+				{
+					"filename": "girl_attack_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 253,
+						"y": 167,
+						"w": 193,
+						"h": 380
+					},
+					"frame": {
+						"x": 4,
+						"y": 2883,
+						"w": 193,
+						"h": 380
+					}
+				},
+				{
+					"filename": "girl_glory_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 240,
+						"y": 167,
+						"w": 261,
+						"h": 377
+					},
+					"frame": {
+						"x": 4,
+						"y": 3271,
+						"w": 261,
+						"h": 377
+					}
+				},
+				{
+					"filename": "girl_attack_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 254,
+						"y": 179,
+						"w": 220,
+						"h": 370
+					},
+					"frame": {
+						"x": 205,
+						"y": 2883,
+						"w": 220,
+						"h": 370
+					}
+				},
+				{
+					"filename": "girl_attack_new05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 257,
+						"y": 187,
+						"w": 274,
+						"h": 362
+					},
+					"frame": {
+						"x": 316,
+						"y": 2466,
+						"w": 274,
+						"h": 362
+					}
+				},
+				{
+					"filename": "girl_attack_new06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 258,
+						"y": 187,
+						"w": 273,
+						"h": 362
+					},
+					"frame": {
+						"x": 421,
+						"y": 2065,
+						"w": 273,
+						"h": 362
+					}
+				},
+				{
+					"filename": "girl_glory_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 192,
+						"w": 240,
+						"h": 362
+					},
+					"frame": {
+						"x": 428,
+						"y": 1634,
+						"w": 240,
+						"h": 362
+					}
+				},
+				{
+					"filename": "girl_attack_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 258,
+						"y": 188,
+						"w": 273,
+						"h": 361
+					},
+					"frame": {
+						"x": 437,
+						"y": 1195,
+						"w": 273,
+						"h": 361
+					}
+				},
+				{
+					"filename": "girl_k.o._new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 229,
+						"w": 353,
+						"h": 315
+					},
+					"frame": {
+						"x": 632,
+						"y": 798,
+						"w": 353,
+						"h": 315
+					}
+				},
+				{
+					"filename": "girl_k.o._new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 416,
+						"w": 403,
+						"h": 161
+					},
+					"frame": {
+						"x": 847,
+						"y": 396,
+						"w": 403,
+						"h": 161
+					}
+				},
+				{
+					"filename": "girl_k.o._new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 416,
+						"w": 392,
+						"h": 161
+					},
+					"frame": {
+						"x": 847,
+						"y": 565,
+						"w": 392,
+						"h": 161
+					}
+				},
+				{
+					"filename": "girl_attack_new10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 155,
+						"w": 199,
+						"h": 389
+					},
+					"frame": {
+						"x": 226,
+						"y": 4,
+						"w": 199,
+						"h": 389
+					}
+				},
+				{
+					"filename": "girl_attack_new09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 253,
+						"y": 167,
+						"w": 193,
+						"h": 380
+					},
+					"frame": {
+						"x": 4,
+						"y": 2883,
+						"w": 193,
+						"h": 380
+					}
+				},
+				{
+					"filename": "girl_attack_new07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 257,
+						"y": 187,
+						"w": 274,
+						"h": 362
+					},
+					"frame": {
+						"x": 316,
+						"y": 2466,
+						"w": 274,
+						"h": 362
+					}
+				},
+				{
+					"filename": "girl_attack_new08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 258,
+						"y": 187,
+						"w": 273,
+						"h": 362
+					},
+					"frame": {
+						"x": 421,
+						"y": 2065,
+						"w": 273,
+						"h": 362
+					}
+				},
+				{
+					"filename": "girl_glory_new07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 155,
+						"w": 199,
+						"h": 389
+					},
+					"frame": {
+						"x": 226,
+						"y": 401,
+						"w": 199,
+						"h": 389
+					}
+				},
+				{
+					"filename": "girl_hit_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 700,
+						"h": 700
+					},
+					"spriteSourceSize": {
+						"x": 250,
+						"y": 155,
+						"w": 199,
+						"h": 389
+					},
+					"frame": {
+						"x": 425,
+						"y": 798,
+						"w": 199,
+						"h": 389
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.0"
+	}
+}

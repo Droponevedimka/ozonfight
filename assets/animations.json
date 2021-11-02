@@ -1,0 +1,56 @@
+{
+  "anims": [{
+    "key": "boy_attack",
+    "frameRate": 13.75,
+    "frames": [
+      {
+        "key": "boy_attack_new00",
+        "frame": "boy_attack_new00"
+      },
+      {
+        "key": "boy_attack_new01",
+        "frame": "boy_attack_new01"
+      },
+      {
+        "key": "boy_attack_new02",
+        "frame": "boy_attack_new02"
+      },
+      {
+        "key": "boy_attack_new03",
+        "frame": "boy_attack_new03"
+      },
+      {
+        "key": "boy_attack_new04",
+        "frame": "boy_attack_new04"
+      },
+      {
+        "key": "boy_attack_new05",
+        "frame": "boy_attack_new05"
+      },
+      {
+        "key": "boy_attack_new06",
+        "frame": "boy_attack_new06"
+      },
+      {
+        "key": "boy_attack_new07",
+        "frame": "boy_attack_new07"
+      },
+      {
+        "key": "boy_attack_new08",
+        "frame": "boy_attack_new08"
+      },
+      {
+        "key": "boy_attack_new09",
+        "frame": "boy_attack_new09"
+      },
+      {
+        "key": "boy_attack_new10",
+        "frame": "boy_attack_new10"
+      }
+    ]
+  }],
+  "meta": {
+    "app": "Phaser Editor v2",
+    "contentType": "Phaser v3 Animations"
+  }
+}

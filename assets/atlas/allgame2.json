@@ -1,0 +1,102 @@
+{
+	"textures": [
+		{
+			"image": "allgame2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1793,
+				"h": 110
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "map",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1640,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1640,
+						"h": 55
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1640,
+						"h": 55
+					}
+				},
+				{
+					"filename": "pers-log-boy",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 78
+					},
+					"frame": {
+						"x": 1640,
+						"y": 0,
+						"w": 79,
+						"h": 78
+					}
+				},
+				{
+					"filename": "map2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1640,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1640,
+						"h": 55
+					},
+					"frame": {
+						"x": 0,
+						"y": 55,
+						"w": 1640,
+						"h": 55
+					}
+				},
+				{
+					"filename": "pers-log-girl",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 74,
+						"h": 71
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 74,
+						"h": 71
+					},
+					"frame": {
+						"x": 1719,
+						"y": 0,
+						"w": 74,
+						"h": 71
+					}
+				}
+			]
+		}
+	],
+	"meta": {	
+		"version": "0.6.0"
+	}
+}

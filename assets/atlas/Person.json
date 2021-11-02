@@ -1,0 +1,94 @@
+{
+  "textures": [{
+    "image": "Person.png",
+    "frames": [
+      {
+        "filename": "back-pers",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 786,
+          "w": 1920,
+          "h": 1080
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 1920,
+          "h": 1080
+        },
+        "sourceSize": {
+          "w": 1920,
+          "h": 1080
+        }
+      },
+      {
+        "filename": "boy",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 2,
+          "w": 533,
+          "h": 782
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 533,
+          "h": 782
+        },
+        "sourceSize": {
+          "w": 533,
+          "h": 782
+        }
+      },
+      {
+        "filename": "btn-pers",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 953,
+          "y": 670,
+          "w": 467,
+          "h": 114
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 467,
+          "h": 114
+        },
+        "sourceSize": {
+          "w": 467,
+          "h": 114
+        }
+      },
+      {
+        "filename": "girl",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 537,
+          "y": 27,
+          "w": 414,
+          "h": 757
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 414,
+          "h": 757
+        },
+        "sourceSize": {
+          "w": 414,
+          "h": 757
+        }
+      }
+    ]
+  }],
+  "meta": {    
+    "version": "2"
+  }
+}

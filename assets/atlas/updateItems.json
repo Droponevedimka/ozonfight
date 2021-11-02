@@ -1,0 +1,271 @@
+{
+	"textures": [
+		{
+			"image": "updateItems.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 829,
+				"h": 509
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dumbbells.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 182,
+						"h": 144
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 144
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 182,
+						"h": 144
+					}
+				},
+				{
+					"filename": "skat.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 178,
+						"h": 170
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 178,
+						"h": 170
+					},
+					"frame": {
+						"x": 182,
+						"y": 0,
+						"w": 178,
+						"h": 170
+					}
+				},
+				{
+					"filename": "fan.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 174,
+						"h": 140
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 140
+					},
+					"frame": {
+						"x": 0,
+						"y": 145,
+						"w": 174,
+						"h": 140
+					}
+				},
+				{
+					"filename": "piano.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 165,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 165,
+						"h": 172
+					},
+					"frame": {
+						"x": 360,
+						"y": 0,
+						"w": 165,
+						"h": 172
+					}
+				},
+				{
+					"filename": "game_pad.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 162,
+						"h": 178
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 162,
+						"h": 178
+					},
+					"frame": {
+						"x": 174,
+						"y": 170,
+						"w": 162,
+						"h": 178
+					}
+				},
+				{
+					"filename": "book.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 181
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 181
+					},
+					"frame": {
+						"x": 0,
+						"y": 286,
+						"w": 160,
+						"h": 181
+					}
+				},
+				{
+					"filename": "jbl.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 153,
+						"h": 154
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 153,
+						"h": 154
+					},
+					"frame": {
+						"x": 525,
+						"y": 0,
+						"w": 153,
+						"h": 154
+					}
+				},
+				{
+					"filename": "Allias.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 151,
+						"h": 172
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 151,
+						"h": 172
+					},
+					"frame": {
+						"x": 678,
+						"y": 0,
+						"w": 151,
+						"h": 172
+					}
+				},
+				{
+					"filename": "spray.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 164
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 164
+					},
+					"frame": {
+						"x": 525,
+						"y": 154,
+						"w": 147,
+						"h": 164
+					}
+				},
+				{
+					"filename": "clock.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 145,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 145,
+						"h": 155
+					},
+					"frame": {
+						"x": 337,
+						"y": 173,
+						"w": 145,
+						"h": 155
+					}
+				},
+				{
+					"filename": "foto.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 148
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 148
+					},
+					"frame": {
+						"x": 337,
+						"y": 328,
+						"w": 144,
+						"h": 148
+					}
+				},
+				{
+					"filename": "headphones.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 137,
+						"h": 161
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 137,
+						"h": 161
+					},
+					"frame": {
+						"x": 161,
+						"y": 348,
+						"w": 137,
+						"h": 161
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.0"
+	}
+}

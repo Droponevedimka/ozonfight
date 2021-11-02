@@ -1,0 +1,137 @@
+{
+  "textures": [{
+    "image": "allgame.png",
+    "frames": [
+      {
+        "filename": "boy",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 715,
+          "y": 67,
+          "w": 130,
+          "h": 131
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 130,
+          "h": 131
+        },
+        "sourceSize": {
+          "w": 130,
+          "h": 131
+        }
+      },
+      {
+        "filename": "girl",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 583,
+          "y": 67,
+          "w": 130,
+          "h": 131
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 130,
+          "h": 131
+        },
+        "sourceSize": {
+          "w": 130,
+          "h": 131
+        }
+      },
+      {
+        "filename": "mana-pers",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 454,
+          "y": 43,
+          "w": 307,
+          "h": 22
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 307,
+          "h": 22
+        },
+        "sourceSize": {
+          "w": 307,
+          "h": 22
+        }
+      },
+      {
+        "filename": "pers-heal",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 118,
+          "w": 578,
+          "h": 39
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 578,
+          "h": 39
+        },
+        "sourceSize": {
+          "w": 579,
+          "h": 39
+        }
+      },
+      {
+        "filename": "skuka-heal",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 159,
+          "w": 579,
+          "h": 39
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 579,
+          "h": 39
+        },
+        "sourceSize": {
+          "w": 579,
+          "h": 39
+        }
+      },
+      {
+        "filename": "text-bot",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 2,
+          "w": 450,
+          "h": 114
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 450,
+          "h": 114
+        },
+        "sourceSize": {
+          "w": 450,
+          "h": 114
+        }
+      }
+    ]
+  }],
+  "meta": {
+    "app": "Phaser Editor - Atlas Generator",
+    "version": "2"
+  }
+}

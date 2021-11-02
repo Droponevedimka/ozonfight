@@ -1,0 +1,648 @@
+{
+	"textures": [
+		{
+			"image": "rutinos.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3723,
+				"h": 3308
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "rutinos_k.o._new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 346,
+						"w": 831,
+						"h": 414
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 831,
+						"h": 414
+					}
+				},
+				{
+					"filename": "rutinos_k.o._new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 378,
+						"w": 829,
+						"h": 382
+					},
+					"frame": {
+						"x": 831,
+						"y": 0,
+						"w": 829,
+						"h": 382
+					}
+				},
+				{
+					"filename": "rutinos_k.o._new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 163,
+						"y": 247,
+						"w": 756,
+						"h": 496
+					},
+					"frame": {
+						"x": 1660,
+						"y": 0,
+						"w": 756,
+						"h": 496
+					}
+				},
+				{
+					"filename": "rutinos_attack_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 166,
+						"w": 681,
+						"h": 577
+					},
+					"frame": {
+						"x": 831,
+						"y": 382,
+						"w": 681,
+						"h": 577
+					}
+				},
+				{
+					"filename": "rutinos_attack_new06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 166,
+						"w": 681,
+						"h": 577
+					},
+					"frame": {
+						"x": 0,
+						"y": 414,
+						"w": 681,
+						"h": 577
+					}
+				},
+				{
+					"filename": "rutinos_attack_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 163,
+						"w": 678,
+						"h": 580
+					},
+					"frame": {
+						"x": 2416,
+						"y": 0,
+						"w": 678,
+						"h": 580
+					}
+				},
+				{
+					"filename": "rutinos_attack_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 93,
+						"y": 160,
+						"w": 629,
+						"h": 583
+					},
+					"frame": {
+						"x": 3094,
+						"y": 496,
+						"w": 629,
+						"h": 583
+					}
+				},
+				{
+					"filename": "rutinos_attack_new05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 163,
+						"w": 678,
+						"h": 580
+					},
+					"frame": {
+						"x": 1512,
+						"y": 496,
+						"w": 678,
+						"h": 580
+					}
+				},
+				{
+					"filename": "rutinos_k.o._new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 171,
+						"w": 665,
+						"h": 572
+					},
+					"frame": {
+						"x": 681,
+						"y": 959,
+						"w": 665,
+						"h": 572
+					}
+				},
+				{
+					"filename": "rutinos_hit_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 169,
+						"w": 626,
+						"h": 573
+					},
+					"frame": {
+						"x": 0,
+						"y": 991,
+						"w": 626,
+						"h": 573
+					}
+				},
+				{
+					"filename": "rutinos_hit_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 161,
+						"w": 594,
+						"h": 581
+					},
+					"frame": {
+						"x": 2190,
+						"y": 580,
+						"w": 594,
+						"h": 581
+					}
+				},
+				{
+					"filename": "rutinos_idle_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 144,
+						"w": 579,
+						"h": 599
+					},
+					"frame": {
+						"x": 1346,
+						"y": 1076,
+						"w": 579,
+						"h": 599
+					}
+				},
+				{
+					"filename": "rutinos_idle_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 146,
+						"w": 568,
+						"h": 597
+					},
+					"frame": {
+						"x": 626,
+						"y": 1531,
+						"w": 568,
+						"h": 597
+					}
+				},
+				{
+					"filename": "rutinos_glory_new02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 203,
+						"w": 567,
+						"h": 551
+					},
+					"frame": {
+						"x": 0,
+						"y": 1564,
+						"w": 567,
+						"h": 551
+					}
+				},
+				{
+					"filename": "rutinos_glory_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 203,
+						"w": 567,
+						"h": 551
+					},
+					"frame": {
+						"x": 0,
+						"y": 2115,
+						"w": 567,
+						"h": 551
+					}
+				},
+				{
+					"filename": "rutinos_glory_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 203,
+						"w": 567,
+						"h": 551
+					},
+					"frame": {
+						"x": 2784,
+						"y": 1079,
+						"w": 567,
+						"h": 551
+					}
+				},
+				{
+					"filename": "rutinos_idle_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 152,
+						"w": 565,
+						"h": 591
+					},
+					"frame": {
+						"x": 1925,
+						"y": 1161,
+						"w": 565,
+						"h": 591
+					}
+				},
+				{
+					"filename": "rutinos_idle_new05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 163,
+						"w": 563,
+						"h": 580
+					},
+					"frame": {
+						"x": 1194,
+						"y": 1675,
+						"w": 563,
+						"h": 580
+					}
+				},
+				{
+					"filename": "rutinos_idle_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 149,
+						"w": 562,
+						"h": 594
+					},
+					"frame": {
+						"x": 567,
+						"y": 2128,
+						"w": 562,
+						"h": 594
+					}
+				},
+				{
+					"filename": "rutinos_attack_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 157,
+						"w": 553,
+						"h": 586
+					},
+					"frame": {
+						"x": 0,
+						"y": 2666,
+						"w": 553,
+						"h": 586
+					}
+				},
+				{
+					"filename": "rutinos_glory_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 157,
+						"w": 553,
+						"h": 586
+					},
+					"frame": {
+						"x": 553,
+						"y": 2722,
+						"w": 553,
+						"h": 586
+					}
+				},
+				{
+					"filename": "rutinos_hit_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 157,
+						"w": 553,
+						"h": 586
+					},
+					"frame": {
+						"x": 1106,
+						"y": 2722,
+						"w": 553,
+						"h": 586
+					}
+				},
+				{
+					"filename": "rutinos_idle_new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 157,
+						"w": 553,
+						"h": 586
+					},
+					"frame": {
+						"x": 2490,
+						"y": 1630,
+						"w": 553,
+						"h": 586
+					}
+				},
+				{
+					"filename": "rutinos_k.o._new00.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 157,
+						"w": 553,
+						"h": 586
+					},
+					"frame": {
+						"x": 3043,
+						"y": 1630,
+						"w": 553,
+						"h": 586
+					}
+				},
+				{
+					"filename": "rutinos_glory_new01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 165,
+						"w": 534,
+						"h": 578
+					},
+					"frame": {
+						"x": 1757,
+						"y": 1752,
+						"w": 534,
+						"h": 578
+					}
+				},
+				{
+					"filename": "rutinos_attack_new07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 93,
+						"y": 160,
+						"w": 629,
+						"h": 583
+					},
+					"frame": {
+						"x": 3094,
+						"y": 496,
+						"w": 629,
+						"h": 583
+					}
+				},
+				{
+					"filename": "rutinos_attack_new04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 166,
+						"w": 681,
+						"h": 577
+					},
+					"frame": {
+						"x": 831,
+						"y": 382,
+						"w": 681,
+						"h": 577
+					}
+				},
+				{
+					"filename": "rutinos_glory_new06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 165,
+						"w": 534,
+						"h": 578
+					},
+					"frame": {
+						"x": 1757,
+						"y": 1752,
+						"w": 534,
+						"h": 578
+					}
+				},
+				{
+					"filename": "rutinos_glory_new05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 203,
+						"w": 567,
+						"h": 551
+					},
+					"frame": {
+						"x": 0,
+						"y": 2115,
+						"w": 567,
+						"h": 551
+					}
+				},
+				{
+					"filename": "rutinos_hit_new03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 949,
+						"h": 899
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 157,
+						"w": 553,
+						"h": 586
+					},
+					"frame": {
+						"x": 1106,
+						"y": 2722,
+						"w": 553,
+						"h": 586
+					}
+				}
+			]
+		}
+	],
+	"meta": {	
+		"version": "0.6.0"
+	}
+}
